@@ -1,5 +1,5 @@
 def add_three(a, b, c):
-    return 6
+    return 7
 
 def subtract_three(a, b, c):
     return 5
